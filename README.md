@@ -1,4 +1,4 @@
-- 👋 I’m Shihabul Islam (Shuvo)
+- 👋 I’m Shuvo
 - 🏫 Bachelor in Computer Science & Enginnering (Ongoing) 
 - 👀 I’m interested in 2d, 3d design and Game development
 - 🌱 I’m currently learning Game Development on Unity and LeetCode
