@@ -1,6 +1,6 @@
 - 👋 I’m Shihabul Islam (Shuvo)
 - 🏫 Bachelor in Computer Science & Enginnering (Ongoing) 
 - 👀 I’m interested in 2d, 3d design and Game development
-- 🌱 I’m currently learning 3d Design with Three.js
+- 🌱 I’m currently learning Game Development on Unity and LeetCode
 - 💞️ I’m looking to collaborate on 3d project and Game development
 - 📫 Conatact: mail: shihabul900@gamil.com
