@@ -1,6 +1,6 @@
 - 👋 I’m Shuvo
-- 🏫 Bachelor in Computer Science & Enginnering (Ongoing) 
+- 🏫 Bachelor of science in Computer Science & Engineering
 - 👀 I’m interested in 2d, 3d design and Game development
-- 🌱 I’m currently learning Game Development on Unity and LeetCode
-- 💞️ I’m looking to collaborate on 3d project and Game development
+- 🌱 I’m currently learning Game Development on Unity and practicing programming on LeetCode
+- 💞️ I’m looking to collaborate on 3d project, Game development or any development related tasks
 - 📫 Conatact: mail: shihabul900@gamil.com
